@@ -79,7 +79,7 @@ function toOctopus($data) {
 			'header'=>"Accept: application/vnd.collection+json\r\n" .
 					  "Content-Type: application/vnd.collection+json\r\n" .
 					  "Cookie: \r\n" .
-					  "Authorization: Basic bXplaW5zdHJhOjgqQWJLa1B4SVY0YjNGJXJuZUx2\r\n", 
+					  "Authorization: Basic PLACE AUTHORISATION HEREr\n", 
 				'method'  => 'POST',
 				'content' => $data
 			)
